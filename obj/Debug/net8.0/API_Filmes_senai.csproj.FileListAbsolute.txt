@@ -165,3 +165,4 @@ C:\Users\52529661847\Desktop\API_Filmes\API_Filmes_senai\bin\Debug\net8.0\tr\Mic
 C:\Users\52529661847\Desktop\API_Filmes\API_Filmes_senai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\52529661847\Desktop\API_Filmes\API_Filmes_senai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\52529661847\Desktop\API_Filmes\API_Filmes_senai\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\52529661847\Desktop\API_Filmes\API_Filmes_senai\obj\Debug\net8.0\API_Filmes_senai.sourcelink.json
